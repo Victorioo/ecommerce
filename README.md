@@ -11,7 +11,7 @@ La idea es poder brindarle al cliente un interfaz un poco mas amigable, al poder
 
 ## Deployed
 
-Deploy de vercel: [https://ecommerce-nextjs-victorioo.vercel.app/]([[https://ecommerce-nextjs-victorioo.vercel.app/)).
+Aplicación desplegada [TOCANDO ACÁ](https://ecommerce-nextjs-victorioo.vercel.app/).
 
 
 
