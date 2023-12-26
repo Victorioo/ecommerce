@@ -1,3 +1,4 @@
+//@ts-ignore
 import Papa from "papaparse";
 import { ProductTypes } from "@/components/product/types";
 import axios from "axios";
