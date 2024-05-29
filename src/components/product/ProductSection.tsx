@@ -140,7 +140,7 @@ function ProductSection() {
                 image={image}
               >
                 <button
-                  className="w-full bg-black px-4 py-2 rounded-md hover:bg-neutral-800 transition-all buttoneitor"
+                  className="w-full bg-[#352a33] px-4 py-2 rounded-md hover:bg-neutral-800 transition-all buttoneitor"
                   onClick={() =>
                     addToCart({
                       title: title,

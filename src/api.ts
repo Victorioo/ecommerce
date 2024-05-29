@@ -8,7 +8,7 @@ import { revalidatePath } from "next/cache";
 export const data = () => {
   return axios
     .get(
-      "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyUYS4xO2hhc9YANOi3CrfKa4FW3c3lbzBPNtNC0o6w-784mwymsqvT75G54cLEHZr7w2wAvtlhZsT/pub?output=csv",
+      "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHP5gOb_sNvhE1t0yqOpmvERoKEGG6afVWWFYqeVq_OgsXVsuBqtjFlLvYZs72Sw60EuQrGN0S6uCJ/pub?output=csv",
       {
         responseType: "blob",
       }

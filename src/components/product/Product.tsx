@@ -17,7 +17,7 @@ function Product({
 }) {
   return (
     <div
-      className="bg-indigo-500 px-6 py-6 flex flex-col items-start justify-center gap-4 rounded-lg shadow-2xl"
+      className="bg-[#b59b8d] px-6 py-6 flex flex-col items-center justify-center gap-4 rounded-lg shadow-xl"
     >
       <h1 className="text-md">{title}</h1>
       <img
@@ -25,9 +25,9 @@ function Product({
         alt="locuras"
         width={100}
         height={100}
-        className="w-full h-52 object-cover"
+        className="w-full h-48 object-cover rounded-3xl"
       />
-      <h2 className="text-md text-gray-300">{category}</h2>
+      <h2 className="text-md text-white">{category}</h2>
       <span className="text-lg">${price}</span>
       {children}
     </div>
